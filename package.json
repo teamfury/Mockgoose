@@ -1,7 +1,7 @@
 {
   "name": "mockgoose-mongoose4",
   "description": "Mockgoose is an in memory database mock to allow for testing of applications that rely on Mongoose.",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "author": {
     "name": "Anthony McCormick",
     "email": "anthony.mccormick AT gmail.com"
@@ -49,7 +49,7 @@
     "mongoose-validator": "~1.0.3",
     "node-uuid": "~1.4.3"
   },
-  "peerDependencies" : {
+  "peerDependencies": {
     "mongoose": "^3.8.25"
   },
   "bugs": {
