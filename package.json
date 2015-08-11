@@ -49,9 +49,6 @@
     "mongoose-validator": "~1.0.3",
     "node-uuid": "~1.4.3"
   },
-  "peerDependencies": {
-    "mongoose": "^3.8.25"
-  },
   "bugs": {
     "url": "https://github.com/mccormicka/Mockgoose/issues"
   },
